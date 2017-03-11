@@ -1235,6 +1235,7 @@ var domains = {
   "mcfog.com": 1, 
   "md-t.org": 1, 
   "mediafire.com": 1, 
+  "medium.com": 1,
   "meetup.com": 1, 
   "mefeedia.com": 1, 
   "megabyet.net": 1, 
