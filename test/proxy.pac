@@ -148,6 +148,7 @@ var domains = {
   "atgfw.org": 1, 
   "atlaspost.com": 1, 
   "atnext.com": 1, 
+  "atom.io": 1,
   "avaaz.org": 1, 
   "avdb.in": 1, 
   "avidemux.org": 1, 
